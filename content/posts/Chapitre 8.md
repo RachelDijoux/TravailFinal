@@ -1,4 +1,11 @@
-## Chapitre 8 
++++
+chapter = "Chapitre 8"
+date = "2020-10-31T10:01:00.000+00:00"
+image = "images/logo.png"
+title = ""
+weight = 9
+chapitre = "oui"
++++ 
 
 Peu de temps après mon arrivée à Baltimore, Richard, le plus jeune fils de mon ancien maître, mourrut ; trois ans et demi plus tard, mon ancien maître lui-même, le capitaine Anthony, mourait à son tour, laissant son fils Andrew et sa fille Lucretia pour seuls héritiers. Il est mort alors qu'il rendait visite à sa fille à Hillsborough. Son décès ayant été subit, il ne laissait pas de testament ni rien qui précisât comment disposer de ses biens. Il devenait donc nécessaire de faire l'évaluation de ses possessions, afin de les diviser également en deux parts, l'une pour Mlle Lucretia, l'autre pour maître Andrew. On me fit donc immédiatement venir, pour être comptabilisé avec les autres biens. Cela augmenta encore ma haine de l'esclavage. Un nouvel aspect de mon triste état m'apparaissait. Auparavant, j'étais, certes non pas complétement, mais au moins partiellement capable d'endurer mon sort. Je quittai Baltimore le coeur débordant de tristesseet l'âme pleine d'appréhensions. Je voyageai à bord de la goélette _Wild-Cat_ commandée par le capitaine Rowe et, quelque 24 heures plus tard, je me retrouvai près du lieu de ma naissance. J"en étais parti depuis presque cinq ans, mais j'en gardais un vif souvenir. Etant donné que j'avais environs 5 ans quand j'étais parti vivre avec mon ancien maître sur la plantation du colonel Lloyd, je devais avoir à ce moment-là 10 ou 11 ans.
   On nous mit tous en rang pour l'évaluation. 
