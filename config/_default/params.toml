@@ -1,7 +1,7 @@
 auteur = "Frederick Douglass"
 bloctexte = "justify"
 copyright = "CC BY-NC-SA"
-couverture = "/uploads/couverture.png"
+couverture = "https://www.gallimardmontreal.com/system/articles/images/grand/9782895960454.jpg"
 description = "Description"
 edition = "LUX"
 format = "portrait"
