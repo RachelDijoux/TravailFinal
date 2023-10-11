@@ -2,7 +2,7 @@
 chapter = "Chapitre 1"
 date = "2020-10-31T10:01:00.000+00:00"
 image = "images/logo.png"
-title = "CHAPITRE I"
+title = ""
 weight = 2
 chapitre = "oui"
 +++ 
