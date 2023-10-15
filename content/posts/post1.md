@@ -1,8 +1,4 @@
 ---
-title: ""
+title: "Page de crédits"
 ---
 
-<<<<<<< HEAD
-
-=======
->>>>>>> eeac414 ([Modification])
