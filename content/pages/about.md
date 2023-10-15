@@ -11,7 +11,7 @@ En raison de mes origines Réunionnaises , je suis particulièrement sensibilis�
 
 L'histoire de la Réunion est tristement marquée par des évènements liés à l'esclavage. En 1811, alors que l'île était sous domination Britanique (suite à la capitulation des Français le 8 Juillet 1809), La Réunion a été le théâtre d'une révolte d'esclaves particulièrement sanglante.
 
-> 20 esclaves furent tués dans l'embuscade
+> 20 esclaves furent tués dans une embuscade
 
 > 30 condamnés à mort
 
