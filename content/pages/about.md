@@ -5,7 +5,7 @@ weight: 50
 type: colophon
 ---
 
-Pour ce travail final , j'ai choisi le livre de Frederick Douglass "Mémoire d'un esclave". 
+Pour ce travail final , j'ai choisi le livre de Frederick Douglass "Mémoire d'un esclave". J'ai essayé de créer l'illusion que l'auteur communiquait avec nous par le biais de correspondance. 
 
 En raison de mes origines Réunionnaises , je suis particulièrement sensibilisée à la question de l'esclavage ou encore du racisme. L'une des familles le plus célèbre de l'île était la Famille Desbassayns. En 1797 , cette famille comptais à elle seule 417 esclaves, ce qui en faisait la plus grande propriété esclavagiste de l'île. 
 
@@ -18,3 +18,4 @@ L'histoire de la Réunion est tristement marquée par des évènements liés à 
 > 2 blancs tués
 
 Il est donc essentiel de rappeler ces évènements pour se souvenir de notre histoire et nous interroger sur la société actuelle , ainsi que sur les évènements contemporains que nous connaissons.  
+
